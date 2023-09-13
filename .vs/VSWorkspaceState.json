@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ShafikovTours",
+    "\\ShafikovTours\\bin\\Debug",
+    "\\ShafikovTours\\bin\\Release",
+    "\\ShafikovTours\\res"
   ],
-  "SelectedNode": "\\F:\\Программирование 3 курс\\HW",
+  "SelectedNode": "\\ShafikovTours\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
