@@ -26,7 +26,7 @@
                ContentRendered="MainFrame_ContentRendered"></Frame>
 
         <Button Content="Back" Name="BtnBack" 
-                Width="175" Height="30" FontSize="20" 
+                FontSize="20" 
                 HorizontalAlignment="Right"
                 Click="BtnBack_Click"></Button>
     </Grid>

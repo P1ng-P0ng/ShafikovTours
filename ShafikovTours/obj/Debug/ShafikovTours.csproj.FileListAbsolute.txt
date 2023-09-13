@@ -17,3 +17,4 @@ F:\Программирование 3 курс\HW\ShafikovTours\obj\Debug\AddEdi
 F:\Программирование 3 курс\HW\ShafikovTours\obj\Debug\HotelsPage.g.cs
 F:\Программирование 3 курс\HW\ShafikovTours\obj\Debug\AddEditPage.baml
 F:\Программирование 3 курс\HW\ShafikovTours\obj\Debug\HotelsPage.baml
+F:\Программирование 3 курс\HW\ShafikovTours\obj\Debug\App.baml
